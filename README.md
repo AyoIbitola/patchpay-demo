@@ -20,3 +20,7 @@ bounties on open-source GitHub issues.
 python -m pytest
 ```
 done
+
+## Contributing
+
+Pick an open issue, open a PR, get it merged. That is the whole demo.
