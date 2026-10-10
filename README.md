@@ -1,5 +1,7 @@
 # patchpay-demo
 
+_Lightning bounties for GitHub issues — demo sandbox._
+
 A throwaway sandbox repo used to demo **PatchPay** — community-funded Lightning
 bounties on open-source GitHub issues.
 
